@@ -1,4 +1,4 @@
-[![Travis](http://img.shields.io/travis/ccarrubba/parallel-semantic-search-portlet/master.png)](https://travis-ci.org/ccarrubba/parallel-semantic-search-portlet)
+[![Travis](http://img.shields.io/travis/ccarrubba/parallel-semantic-search-portlet/master.png?branch=master)](https://travis-ci.org/ccarrubba/parallel-semantic-search-portlet)
 
 
 
